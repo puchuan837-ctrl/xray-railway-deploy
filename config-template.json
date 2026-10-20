@@ -1,0 +1,1 @@
+{"inbounds":[{"listen":"0.0.0.0","port":8080,"protocol":"vless","settings":{"clients":[{"id":"8088e1b6-b22c-4532-8680-3b907209c707"}],"decryption":"none"},"streamSettings":{"network":"ws","wsSettings":{"path":"/ray"}}}],"log":{"loglevel":"warning"},"outbounds":[{"protocol":"freedom","tag":"direct"}]}
