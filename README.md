@@ -32,3 +32,4 @@ vless://UUID@域名:443?encryption=none&security=tls&sni=域名&type=ws&host=域
 - `Dockerfile` / `entrypoint.sh` / `config-template.json`: Railway 部署用
 - `gen_qr.py`: 生成链接和二维码
 - `vless-qr.png`: 示例二维码（域名为占位符，部署后重新生成）
+<!-- redeploy trigger 2026-10-21 -->
